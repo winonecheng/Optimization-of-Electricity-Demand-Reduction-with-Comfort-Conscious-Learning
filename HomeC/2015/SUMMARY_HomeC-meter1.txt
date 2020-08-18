@@ -1,0 +1,7 @@
+HomeC-meter1
+use [kW],gen [kW],House overall [kW],Dishwasher [kW],Furnace 1 [kW],Furnace 2 [kW],Home office [kW],Fridge [kW],Wine cellar [kW],Garage door [kW],Kitchen 12 [kW],Kitchen 14 [kW],Kitchen 38 [kW],Barn [kW],Well [kW],Microwave [kW],Living room [kW],Solar [kW]
+
+year:2015
+Duration:2015-01-01 00:00:00-2015-12-31 23:59:00
+Frequency:0 days 00:30:00
+

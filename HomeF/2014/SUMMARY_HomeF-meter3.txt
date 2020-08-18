@@ -1,0 +1,7 @@
+HomeF-meter3
+Usage [kW],Generation [kW],Net_Meter [kW],Volt [kW],Garage_E [kW],Garage_W [kW],Phase_A [kW],Phase_B [kW],Solar [kW]
+
+year:2014
+Duration:2014-01-01 00:00:00-2014-12-31 23:45:00
+Frequency:0 days 00:15:00
+

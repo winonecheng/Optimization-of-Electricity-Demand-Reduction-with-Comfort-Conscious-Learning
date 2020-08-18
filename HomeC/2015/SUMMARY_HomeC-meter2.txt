@@ -1,0 +1,7 @@
+HomeC-meter2
+use [kW],gen [kW],LivingRoomOutlets [kW],Barn [kW],Well [kW],Microwave [kW],WasherDrier [kW],Solar [kW]
+
+year:2015
+Duration:2015-01-01 00:00:00-2015-12-31 23:59:00
+Frequency:0 days 00:30:00
+

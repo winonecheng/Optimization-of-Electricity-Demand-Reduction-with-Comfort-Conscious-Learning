@@ -1,0 +1,7 @@
+HomeF-meter2
+Usage [kW],Generation [kW],WaterHeater [kW],Solar [kW],Refrigerator [kW],Microwave [kW],Furnace [kW],WaterHeater3 [kW],WaterHeater2 [kW],WaterHeater1 [kW],Master_Bdrm [kW],Front_Bdrm [kW],Kit_StoveWall [kW],Dishwasher_Disposal [kW],Kit_SinkWall [kW],Family_Rm [kW],Kit_Half-Bath_Foyer [kW],Washing_Machine [kW],Guest_Bdrm_SmkDet [kW],Dryer [kW],Basement [kW],Phase_B [kW],Phase_A [kW]
+
+year:2015
+Duration:2015-01-01 00:00:00-2015-12-31 23:45:00
+Frequency:0 days 00:15:00
+
