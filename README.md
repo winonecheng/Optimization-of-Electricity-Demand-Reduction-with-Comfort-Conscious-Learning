@@ -1,4 +1,5 @@
 # Optimization-of-Electricity-Demand-Reduction-with-Comfort-Conscious-Learning
+[Oral defense slides](https://docs.google.com/presentation/d/1zN4Px8bLgE9W4ZckIz1q5ZgoKGV5xcZtpYq32rOlrX4/edit?usp=sharing)
 
 ## Dataset
 Smart* Data Set for Sustainability - [UMass Smart* Dataset - 2017 release](http://traces.cs.umass.edu/index.php/Smart/Smart)
@@ -15,5 +16,5 @@ Smart* Data Set for Sustainability - [UMass Smart* Dataset - 2017 release](http:
 - [臨時性減少用電措施－限電回饋型](https://www.taipower.com.tw/upload/135/2018121814155587242.pdf)
 
 ## Script
-- [training.ipynb](./training.ipynb): take action from PPP and define environment with applianace and resident feedback
+- [training.ipynb](./training.ipynb): take action from PPO and define environment with applianace and resident feedback
 - [metrics.ipynb](./metrics.ipynb): calculate four evaluation metrics (power, reward, comfort, dr_rate)
